@@ -1,5 +1,9 @@
 print("01-Load.R")
 # Open a connection to a log file
+
+
+
+
 sink('logs/CAL-Analytics_Session.log', append = FALSE)
 CalData_Timestamp <- as.POSIXct(Sys.time())
 print(CalData_Timestamp)
