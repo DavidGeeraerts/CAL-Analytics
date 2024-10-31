@@ -19,10 +19,14 @@
 
 ---
 
+###  Version 0.2.0 (2024-10-31)
+#### Added
+- Plot examples
+
+---
+
 ###  Version 0.1.0 (2024-10-25)
 #### Added
 - script sctructure
 - cmd launch from terminal to run with RScript
 - fetching CALData.csv from Google sheets
-
----
